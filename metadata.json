@@ -1,0 +1,6 @@
+{
+  "name": "NexusBI - Data-Driven E-Commerce & BI Platform",
+  "description": "Full-stack e-commerce store with an integrated Business Intelligence admin dashboard, real-time SQL aggregation, KPI tracking, and CSV reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
